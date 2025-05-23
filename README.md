@@ -129,7 +129,3 @@ The FIFO UVM Verification project successfully validated the functionality of th
 
 ### This project is **part** of Eng. Kareem Waseem's diploma.
 
-## Contact Me!
-- **Email:** shehabeldeen2004@gmail.com
-- **LinkedIn:** [Shehab Eldeen](https://www.linkedin.com/in/shehabeldeen22)
-- **GitHub:** [Shehab's GitHub](https://github.com/shehab-25)
